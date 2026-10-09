@@ -1,0 +1,2 @@
+- Keep the shared Star Africa OS application shell in `src/components/app-shell.tsx` so all business modules retain consistent navigation and responsive behavior.
+- Use local mock data and React state for this prototype because persistence and authentication are outside the requested scope.
